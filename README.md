@@ -10,6 +10,7 @@ This is a web application project built with Django on the back-end and Javascri
 It is a simple website that presents Premier League data and information by retreiving data from [football-API](https://www.football-data.org/), including information for each Premier League team, fixtures and table of the current Premier League season.
 It also includes a discussion forum for each Premier League team.
 ![Screenshot (663)](https://github.com/user-attachments/assets/6a2219d3-39f5-4c28-9d26-5b8a6d1464ad)
+![Screenshot (664)](https://github.com/user-attachments/assets/cd1b31de-0c88-45e9-9dc3-3a95a022e2eb)
 
 ### Distinctiveness and Complexity
 
