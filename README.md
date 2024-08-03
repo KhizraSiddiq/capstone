@@ -5,10 +5,11 @@
 
 --------
 
-This is a web application project built with Django on the back-end and Javascript on the front-end, as the final project for Harvard CS50’s Web Programming with Python and JavaScript course.
+For my final project in Harvard CS50’s Web Programming with Python and JavaScript course, I am developing a web application that combines Django for the back-end and JavaScript for the front-end. This project aims to create a comprehensive and engaging platform for Premier League fans. The back-end, built with Django, manages data processing, user authentication, and ensures secure and efficient application operations. On the front-end, JavaScript is utilized to build a dynamic, responsive user interface, providing real-time updates and interactive elements. By providing valuable data and fostering community engagement through its forums, the project enhances the overall user experience for Premier League enthusiasts. The application integrates with a football API to offer current Premier League data, including:
 
-It is a simple website that presents Premier League data and information by retreiving data from [football-API](https://www.football-data.org/), including information for each Premier League team, fixtures and table of the current Premier League season.
-It also includes a discussion forum for each Premier League team.
+Team Profiles: Detailed information on each team, such as player statistics, historical performance, and team rosters.
+Match Fixtures: A complete schedule of upcoming and past matches, with dates, times, and results.
+League Standings: A season table showing the latest rankings, points, goals scored, and goals conceded for all Premier League teams.
 ![Screenshot (663)](https://github.com/user-attachments/assets/6a2219d3-39f5-4c28-9d26-5b8a6d1464ad)
 ![Screenshot (664)](https://github.com/user-attachments/assets/cd1b31de-0c88-45e9-9dc3-3a95a022e2eb)
 
